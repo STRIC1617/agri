@@ -1,0 +1,73 @@
+_id,region,crop,year,season,yield (tons/hectare),market_price (per ton),profit (per hectare),loss (per hectare),reason_of_loss,demand,cost_of_production
+66fd0773bb1d40464e7b4c13,West Bengal,Rice,2020,Kharif,3,1400,10000,500,None,High,9000
+66fd0773bb1d40464e7b4c14,West Bengal,Rice,2021,Kharif,3.2,1500,12000,0,None,High,8000
+66fd0773bb1d40464e7b4c15,West Bengal,Rice,2022,Kharif,3.1,1550,11500,100,None,Medium,9000
+66fd0773bb1d40464e7b4c16,West Bengal,Rice,2023,Kharif,2.8,1600,12000,0,None,High,8000
+66fd0773bb1d40464e7b4c17,Punjab,Wheat,2020,Rabi,2.9,1800,11000,0,None,Medium,9500
+66fd0773bb1d40464e7b4c18,Punjab,Wheat,2021,Rabi,3.1,1900,14000,0,None,High,8000
+66fd0773bb1d40464e7b4c19,Punjab,Wheat,2022,Rabi,3,2000,15000,0,None,High,10000
+66fd0773bb1d40464e7b4c1a,Punjab,Wheat,2023,Rabi,3.2,2000,16000,0,None,High,10000
+66fd0773bb1d40464e7b4c1b,Maharashtra,Cotton,2020,Kharif,2.4,1600,10000,200,Pests,Medium,8000
+66fd0773bb1d40464e7b4c1c,Maharashtra,Cotton,2021,Kharif,2.5,1700,13000,100,None,Medium,9000
+66fd0773bb1d40464e7b4c1d,Maharashtra,Cotton,2022,Kharif,2.7,1800,15000,0,None,High,9000
+66fd0773bb1d40464e7b4c1e,Maharashtra,Cotton,2023,Kharif,2.5,1700,13000,0,None,Medium,9000
+66fd0773bb1d40464e7b4c1f,Kerala,Banana,2020,All Year,9.5,1200,9000,500,Pests,High,7000
+66fd0773bb1d40464e7b4c20,Kerala,Banana,2021,All Year,10,1300,9500,200,None,High,7500
+66fd0773bb1d40464e7b4c21,Kerala,Banana,2022,All Year,10.5,1350,10500,0,None,High,8000
+66fd0773bb1d40464e7b4c22,Kerala,Banana,2023,All Year,10,1200,10000,1000,Pests,High,7000
+66fd0773bb1d40464e7b4c23,Andhra Pradesh,Chickpea,2020,Rabi,1.8,2000,13000,0,None,Medium,5000
+66fd0773bb1d40464e7b4c24,Andhra Pradesh,Chickpea,2021,Rabi,1.5,2100,14000,0,None,Medium,5000
+66fd0773bb1d40464e7b4c25,Andhra Pradesh,Chickpea,2022,Rabi,1.7,2200,16000,0,None,Medium,5500
+66fd0773bb1d40464e7b4c26,Andhra Pradesh,Chickpea,2023,Rabi,1.5,2500,20000,0,None,Medium,5000
+66fd0773bb1d40464e7b4c27,Tamil Nadu,Coconut,2020,All Year,4.5,2500,12000,500,Pests,High,12000
+66fd0773bb1d40464e7b4c28,Tamil Nadu,Coconut,2021,All Year,4.8,2600,13000,0,None,High,12500
+66fd0773bb1d40464e7b4c29,Tamil Nadu,Coconut,2022,All Year,5,2700,14000,0,None,High,13000
+66fd0773bb1d40464e7b4c2a,Tamil Nadu,Coconut,2023,All Year,5,3000,15000,0,None,High,12000
+66fd0773bb1d40464e7b4c2b,Rajasthan,Lentil,2020,Rabi,1,3000,20000,500,Drought,Low,4500
+66fd0773bb1d40464e7b4c2c,Rajasthan,Lentil,2021,Rabi,1.1,3100,21000,400,Drought,Low,5000
+66fd0773bb1d40464e7b4c2d,Rajasthan,Lentil,2022,Rabi,1.2,3200,22000,300,Drought,Medium,5000
+66fd0773bb1d40464e7b4c2e,Rajasthan,Lentil,2023,Rabi,1.2,3500,25000,500,Drought,Low,4500
+66fd0773bb1d40464e7b4c2f,Uttar Pradesh,Potato,2020,Kharif,22,800,18000,2000,Flood,Medium,6000
+66fd0773bb1d40464e7b4c30,Uttar Pradesh,Potato,2021,Kharif,24,850,19000,1500,None,Medium,6000
+66fd0773bb1d40464e7b4c31,Uttar Pradesh,Potato,2022,Kharif,25,900,20000,1000,Flood,High,6000
+66fd0773bb1d40464e7b4c32,Uttar Pradesh,Potato,2023,Kharif,24,950,19000,1200,None,Medium,6500
+66fd0773bb1d40464e7b4c33,Bihar,Maize,2020,Kharif,2.5,1200,18000,500,None,High,4000
+66fd0773bb1d40464e7b4c34,Bihar,Maize,2021,Kharif,3,1300,19000,300,None,High,4500
+66fd0773bb1d40464e7b4c35,Bihar,Maize,2022,Kharif,3.2,1400,20000,0,None,High,4000
+66fd0773bb1d40464e7b4c36,Bihar,Maize,2023,Kharif,3,1500,18000,0,None,High,4000
+66fd0773bb1d40464e7b4c37,Gujarat,Jute,2020,Kharif,1.3,1500,12000,0,None,Medium,3500
+66fd0773bb1d40464e7b4c38,Gujarat,Jute,2021,Kharif,1.5,1600,13000,0,None,Medium,3500
+66fd0773bb1d40464e7b4c39,Gujarat,Jute,2022,Kharif,1.4,1700,12500,0,None,Medium,3500
+66fd0773bb1d40464e7b4c3a,Gujarat,Jute,2023,Kharif,1.5,1800,13000,0,None,Medium,3500
+66fd0773bb1d40464e7b4c3b,Odisha,Pulses,2020,Rabi,1,2500,12000,300,Drought,Medium,3000
+66fd0773bb1d40464e7b4c3c,Odisha,Pulses,2021,Rabi,1.1,2600,13000,200,None,Medium,3200
+66fd0773bb1d40464e7b4c3d,Odisha,Pulses,2022,Rabi,1.2,2700,14000,100,None,High,3500
+66fd0773bb1d40464e7b4c3e,Odisha,Pulses,2023,Rabi,1.2,2800,14500,0,None,High,3600
+66fd0773bb1d40464e7b4c3f,Uttarakhand,Barley,2020,Rabi,2,1500,8000,100,None,Low,7000
+66fd0773bb1d40464e7b4c40,Uttarakhand,Barley,2021,Rabi,2.2,1550,9000,50,None,Medium,7000
+66fd0773bb1d40464e7b4c41,Uttarakhand,Barley,2022,Rabi,2.1,1600,8500,100,None,Low,7200
+66fd0773bb1d40464e7b4c42,Uttarakhand,Barley,2023,Rabi,2.3,1650,9500,75,None,Low,7000
+66fd0773bb1d40464e7b4c43,Jharkhand,Sorghum,2020,Kharif,3.5,900,5000,400,Flood,Medium,5000
+66fd0773bb1d40464e7b4c44,Jharkhand,Sorghum,2021,Kharif,3,950,5500,300,None,Medium,5100
+66fd0773bb1d40464e7b4c45,Jharkhand,Sorghum,2022,Kharif,3.2,1000,6000,200,None,Medium,5200
+66fd0773bb1d40464e7b4c46,Jharkhand,Sorghum,2023,Kharif,3.1,950,5800,150,None,Medium,5100
+66fd0773bb1d40464e7b4c47,Karnataka,Groundnut,2020,Kharif,1.8,1400,7000,200,None,High,3000
+66fd0773bb1d40464e7b4c48,Karnataka,Groundnut,2021,Kharif,1.9,1450,7500,150,None,High,3200
+66fd0773bb1d40464e7b4c49,Karnataka,Groundnut,2022,Kharif,2,1500,8000,100,None,High,3200
+66fd0773bb1d40464e7b4c4a,Karnataka,Groundnut,2023,Kharif,1.9,1550,7800,50,None,High,3100
+66fd0773bb1d40464e7b4c4b,Madhya Pradesh,Pearl Millet,2020,Kharif,2.2,1000,4000,200,None,Low,3000
+66fd0773bb1d40464e7b4c4c,Madhya Pradesh,Pearl Millet,2021,Kharif,2.5,1100,4500,150,None,Medium,3200
+66fd0773bb1d40464e7b4c4d,Madhya Pradesh,Pearl Millet,2022,Kharif,2.6,1200,5000,100,None,Medium,3300
+66fd0773bb1d40464e7b4c4e,Madhya Pradesh,Pearl Millet,2023,Kharif,2.5,1150,4800,0,None,Medium,3200
+66fd0773bb1d40464e7b4c4f,Assam,Tea,2020,All Year,1.5,2500,18000,300,None,High,5000
+66fd0773bb1d40464e7b4c50,Assam,Tea,2021,All Year,1.6,2700,19000,200,None,High,5200
+66fd0773bb1d40464e7b4c51,Assam,Tea,2022,All Year,1.7,2900,20000,100,None,High,5300
+66fd0773bb1d40464e7b4c52,Assam,Tea,2023,All Year,1.8,3100,21000,0,None,High,5400
+66fd0773bb1d40464e7b4c53,Himachal Pradesh,Apple,2020,All Year,8,2000,12000,500,Pests,High,8000
+66fd0773bb1d40464e7b4c54,Himachal Pradesh,Apple,2021,All Year,8.5,2100,13000,400,Pests,High,8500
+66fd0773bb1d40464e7b4c55,Himachal Pradesh,Apple,2022,All Year,9,2200,14000,300,None,High,8500
+66fd0773bb1d40464e7b4c56,Himachal Pradesh,Apple,2023,All Year,9.5,2300,15000,200,None,High,9000
+66fd0773bb1d40464e7b4c57,Gujarat,Sugarcane,2020,All Year,60,500,18000,0,None,Medium,4000
+66fd0773bb1d40464e7b4c58,Gujarat,Sugarcane,2021,All Year,65,550,19000,0,None,Medium,4000
+66fd0773bb1d40464e7b4c59,Gujarat,Sugarcane,2022,All Year,70,600,20000,0,None,Medium,4000
+66fd0773bb1d40464e7b4c5a,Gujarat,Sugarcane,2023,All Year,75,650,21000,0,None,Medium,4000

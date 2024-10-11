@@ -1,0 +1,45 @@
+_id,crop,technique_type,description,benefits,best_practices
+66fd1c83bb1d40464e7b4c8a,Apple,Organic,Use organic compost and mulch to enrich soil.,"Improves soil health, retains moisture.",Apply compost before planting; use mulch around plants.
+66fd1c83bb1d40464e7b4c8b,Apple,Inorganic,Apply chemical fertilizers like NPK for growth.,Quick nutrient availability.,Follow recommended dosage; avoid over-fertilizing.
+66fd1c83bb1d40464e7b4c8c,Banana,Organic,Plant cover crops like legumes to fix nitrogen.,Enhances soil fertility.,Rotate cover crops annually for best results.
+66fd1c83bb1d40464e7b4c8d,Banana,Inorganic,Use potassium-rich fertilizers for fruit development.,Increases fruit size and yield.,Apply during flowering stage for best results.
+66fd1c83bb1d40464e7b4c8e,Blackgram,Organic,Use farmyard manure and green manure.,Enhances nutrient content in the soil.,Apply manure 2-3 weeks before planting.
+66fd1c83bb1d40464e7b4c8f,Blackgram,Inorganic,Use balanced NPK fertilizers during growth.,Promotes healthy growth.,Apply at planting and during flowering.
+66fd1c83bb1d40464e7b4c90,Chickpea,Organic,Implement crop rotation with legumes.,Reduces pests and improves soil health.,Rotate with cereals every 2-3 years.
+66fd1c83bb1d40464e7b4c91,Chickpea,Inorganic,Apply phosphorus fertilizers for root development.,Promotes strong root systems.,Use at planting time for maximum benefit.
+66fd1c83bb1d40464e7b4c92,Coconut,Organic,Use organic mulch and compost.,Reduces weed growth and conserves moisture.,"Apply mulch regularly, especially during dry seasons."
+66fd1c83bb1d40464e7b4c93,Coconut,Inorganic,Fertilize with a balanced mix of NPK.,Enhances growth and nut production.,"Fertilize twice a year, during pre-monsoon and post-monsoon."
+66fd1c83bb1d40464e7b4c94,Coffee,Organic,Use coffee pulp and organic matter in soil.,Improves soil structure and fertility.,Incorporate organic matter into soil before planting.
+66fd1c83bb1d40464e7b4c95,Coffee,Inorganic,Apply fertilizers high in nitrogen.,Promotes leaf growth.,Fertilize during rainy season for optimal absorption.
+66fd1c83bb1d40464e7b4c96,Cotton,Organic,Use neem cake and compost for pest management.,Reduces pests and enhances soil quality.,Apply neem cake before planting.
+66fd1c83bb1d40464e7b4c97,Cotton,Inorganic,Use chemical insecticides to control pests.,Protects crop from damage.,Monitor pest levels and apply as needed.
+66fd1c83bb1d40464e7b4c98,Grapes,Organic,Implement integrated pest management (IPM).,"Reduces chemical use, promotes biodiversity.",Monitor pests and use natural predators.
+66fd1c83bb1d40464e7b4c99,Grapes,Inorganic,Use sulfur-based fungicides for disease control.,Prevents fungal infections.,Apply before flowering and after rains.
+66fd1c83bb1d40464e7b4c9a,Jute,Organic,Incorporate crop residues into soil.,Enhances soil fertility.,Plow in residues after harvest for best results.
+66fd1c83bb1d40464e7b4c9b,Jute,Inorganic,Use urea fertilizers to promote growth.,Increases yield significantly.,Apply at planting and during the growth stage.
+66fd1c83bb1d40464e7b4c9c,Kidneybeans,Organic,Use compost and organic fertilizers.,Increases soil nutrients and biodiversity.,Incorporate compost 2-3 weeks before planting.
+66fd1c83bb1d40464e7b4c9d,Kidneybeans,Inorganic,Use nitrogen-rich fertilizers during growth.,Supports vigorous growth.,Apply in split doses during growth stages.
+66fd1c83bb1d40464e7b4c9e,Lentil,Organic,Plant green manures like mustard between crops.,Improves soil health and nitrogen content.,Incorporate green manures before planting lentils.
+66fd1c83bb1d40464e7b4c9f,Lentil,Inorganic,Apply phosphorus fertilizers for better yield.,Promotes strong growth.,Apply at planting for best uptake.
+66fd1c83bb1d40464e7b4ca0,Maize,Organic,Use organic mulch to retain moisture.,Reduces water loss and weed growth.,Apply mulch around plants after planting.
+66fd1c83bb1d40464e7b4ca1,Maize,Inorganic,Use balanced NPK fertilizers for nutrient supply.,Ensures optimal growth and yield.,Fertilize at planting and during tasseling.
+66fd1c83bb1d40464e7b4ca2,Mungbean,Organic,Use leguminous cover crops for nitrogen fixation.,Enhances soil quality and reduces pests.,Rotate cover crops annually for best results.
+66fd1c83bb1d40464e7b4ca3,Mungbean,Inorganic,Apply balanced fertilizers during growth.,Promotes healthy pod formation.,Fertilize at planting and during flowering.
+66fd1c83bb1d40464e7b4ca4,Mango,Organic,Use organic manures and mulching for moisture.,Enhances fruit quality and size.,Apply manure around the tree and cover with mulch.
+66fd1c83bb1d40464e7b4ca5,Mango,Inorganic,Use high-potassium fertilizers for fruiting.,Increases yield and improves fruit quality.,Apply before flowering for best results.
+66fd1c83bb1d40464e7b4ca6,Mothbeans,Organic,Incorporate organic fertilizers like cow dung.,Enhances nutrient content in soil.,Apply 1-2 weeks before planting.
+66fd1c83bb1d40464e7b4ca7,Mothbeans,Inorganic,Use NPK fertilizers at key growth stages.,Promotes growth and yield.,Apply at planting and during flowering.
+66fd1c83bb1d40464e7b4ca8,Muskmelon,Organic,Use compost and organic fertilizers.,Improves soil fertility and melon quality.,Incorporate compost before planting.
+66fd1c83bb1d40464e7b4ca9,Muskmelon,Inorganic,Use balanced fertilizers for growth and yield.,Ensures optimal growth conditions.,Apply at planting and during fruit development.
+66fd1c83bb1d40464e7b4caa,Orange,Organic,Use organic compost and mulching.,Enhances fruit quality and soil health.,Apply compost regularly and cover with mulch.
+66fd1c83bb1d40464e7b4cab,Orange,Inorganic,Fertilize with a balanced NPK mix.,Promotes healthy growth and fruiting.,Apply during the active growing season.
+66fd1c83bb1d40464e7b4cac,Papaya,Organic,Use compost and organic fertilizers.,Improves soil structure and fruit quality.,Apply compost around the base of the plant.
+66fd1c83bb1d40464e7b4cad,Papaya,Inorganic,Use potassium-rich fertilizers during fruiting.,Enhances fruit size and sweetness.,Fertilize before flowering for optimal results.
+66fd1c83bb1d40464e7b4cae,Rice,Organic,Apply organic fertilizers like compost and green manure.,Improves soil health and fertility.,Apply compost before sowing for best results.
+66fd1c83bb1d40464e7b4caf,Rice,Inorganic,Use balanced NPK fertilizers for growth.,Ensures quick nutrient availability.,Fertilize during tillering and heading stages.
+66fd1c83bb1d40464e7b4cb0,Pigeonpeas,Organic,Implement crop rotation with legumes.,Improves soil quality and reduces pests.,Rotate with cereals every 2-3 years.
+66fd1c83bb1d40464e7b4cb1,Pigeonpeas,Inorganic,Apply phosphorus fertilizers for root development.,Promotes strong root systems.,Use at planting time for maximum benefit.
+66fd1c83bb1d40464e7b4cb2,Pomegranate,Organic,Use organic fertilizers and mulching.,Enhances fruit quality and soil health.,Apply compost regularly and cover with mulch.
+66fd1c83bb1d40464e7b4cb3,Pomegranate,Inorganic,Fertilize with NPK for optimal growth.,Promotes healthy growth and fruiting.,Apply during the active growing season.
+66fd1c83bb1d40464e7b4cb4,Watermelon,Organic,Use compost and organic mulches.,Retains moisture and improves soil health.,Apply mulch around plants after planting.
+66fd1c83bb1d40464e7b4cb5,Watermelon,Inorganic,Use NPK fertilizers during flowering.,Ensures optimal fruit set and yield.,Fertilize before flowering for best results.
